@@ -101,11 +101,11 @@ get_DecisionTree(train_x, train_y, test_x, test_y, list(data.columns[0:4]), list
 ```
 
     准确度为: 0.8666666666666667
-    
 
 
-    
-![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/2. DecisionTree/content/output_5_1.png)
+
+
+![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/2.DecisionTree/content/output_5_1.png)
     
 
 
@@ -136,13 +136,13 @@ get_DecisionTree(train_x, train_y, test_x, test_y, list(data.columns[0:4]), list
 ```
 
     准确度为: 0.8666666666666667
-    
 
 
-    
-![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/2. DecisionTree/content/output_7_1.png)
 
-    
+
+![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/2.DecisionTree/content/output_7_1.png)
+
+​    
 
 
 # 红酒数据集
@@ -185,13 +185,13 @@ get_DecisionTree(train_x, train_y, test_x, test_y, list(load_wine().feature_name
 ```
 
     准确度为: 0.9444444444444444
-    
 
 
-    
-![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/2. DecisionTree/content/output_10_1.png)
 
-    
+
+![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/2.DecisionTree/content/output_10_1.png)
+
+​    
 
 
 
@@ -201,13 +201,13 @@ get_DecisionTree(train_x, train_y, test_x, test_y, list(load_wine().feature_name
 ```
 
     准确度为: 0.8611111111111112
-    
 
 
-    
-![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/2. DecisionTree/content/output_11_1.png)
 
-    
+
+![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/2.DecisionTree/content/output_11_1.png)
+
+​    
 
 
 

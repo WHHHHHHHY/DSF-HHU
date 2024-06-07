@@ -47,7 +47,7 @@ show_img(1, img_numpy, "Origin img")
 ```
 
 
-![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1. ITTI/content/output_3_0.png)
+![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1.ITTI/content/output_3_0.png)
     
 
 
@@ -62,7 +62,7 @@ show_img(8, img_gauss[1:], ["1/2", "1/4", "1/8", "1/16", "1/32", "1/64", "1/128"
 ```
 
 
-![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1. ITTI/content/output_4_0.png)
+![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1.ITTI/content/output_4_0.png)
     
 
 
@@ -130,55 +130,55 @@ for i in range(len(img_gauss)):
 ```
 
 
-![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1. ITTI/content/output_5_0.png)
+![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1.ITTI/content/output_5_0.png)
     
 
 
 
 
-![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1. ITTI/content/output_5_1.png)
+![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1.ITTI/content/output_5_1.png)
     
 
 
 
 
-![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1. ITTI/content/output_5_2.png)
+![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1.ITTI/content/output_5_2.png)
     
 
 
 
 
-![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1. ITTI/content/output_5_3.png)
+![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1.ITTI/content/output_5_3.png)
     
 
 
 
 
-![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1. ITTI/content/output_5_4.png)
+![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1.ITTI/content/output_5_4.png)
     
 
 
 
 
-![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1. ITTI/content/output_5_5.png)
+![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1.ITTI/content/output_5_5.png)
     
 
 
 
 
-![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1. ITTI/content/output_5_6.png)
+![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1.ITTI/content/output_5_6.png)
     
 
 
 
 
-![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1. ITTI/content/output_5_7.png)
+![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1.ITTI/content/output_5_7.png)
     
 
 
 
 
-![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1. ITTI/content/output_5_8.png)
+![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1.ITTI/content/output_5_8.png)
     
 
 
@@ -210,37 +210,37 @@ for key in all_key:
 ```
 
 
-![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1. ITTI/content/output_6_0.png)
+![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1.ITTI/content/output_6_0.png)
     
 
 
 
 
-![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1. ITTI/content/output_6_1.png)
+![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1.ITTI/content/output_6_1.png)
     
 
 
 
 
-![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1. ITTI/content/output_6_2.png)
+![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1.ITTI/content/output_6_2.png)
     
 
 
 
 
-![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1. ITTI/content/output_6_3.png)
+![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1.ITTI/content/output_6_3.png)
     
 
 
 
 
-![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1. ITTI/content/output_6_4.png)
+![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1.ITTI/content/output_6_4.png)
     
 
 
 
 
-![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1. ITTI/content/output_6_5.png)
+![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1.ITTI/content/output_6_5.png)
     
 
 
@@ -301,7 +301,7 @@ show_img(4, [I, C, O, S], ["I", "C", "O", "S"], "final_result", (10, 5))
 ```
 
 
-![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1. ITTI/content/output_8_0.png)
+![png](https://raw.githubusercontent.com/WHHHHHHHY/DSF-HHU/main/1.ITTI/content/output_8_0.png)
     
 
 
